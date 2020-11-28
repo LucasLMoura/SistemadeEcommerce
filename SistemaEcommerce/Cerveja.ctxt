@@ -1,0 +1,11 @@
+#BlueJ class context
+comment0.target=Cerveja
+comment1.params=teorAlcoolico
+comment1.target=void\ setTeorAlcoolico(double)
+comment2.params=prazoValidade
+comment2.target=void\ setPrazoValidade(java.lang.String)
+comment3.params=
+comment3.target=double\ getTeorAlcoolico()
+comment4.params=
+comment4.target=java.lang.String\ getPrazoValidade()
+numComments=5

@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Computador
+comment1.params=hd
+comment1.target=void\ SetHd(int)
+comment2.params=memoria
+comment2.target=void\ SetMemoria(int)
+comment3.params=processador
+comment3.target=void\ SetProcessador(java.lang.String)
+comment4.params=
+comment4.target=int\ GetHd()
+comment5.params=
+comment5.target=int\ GetMemoria()
+comment6.params=
+comment6.target=java.lang.String\ GetProcessador()
+numComments=7

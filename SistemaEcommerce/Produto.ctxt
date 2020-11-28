@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Produto
+comment1.params=NomeFabricante
+comment1.target=void\ SetFabricante(java.lang.String)
+comment2.params=nome
+comment2.target=void\ SetNome(java.lang.String)
+comment3.params=preco
+comment3.target=void\ SetPreco(double)
+comment4.params=
+comment4.target=java.lang.String\ GetFabricante()
+comment5.params=
+comment5.target=java.lang.String\ GetNome()
+comment6.params=
+comment6.target=double\ GetPreco()
+numComments=7

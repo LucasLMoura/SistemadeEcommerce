@@ -1,0 +1,15 @@
+#BlueJ class context
+comment0.target=Televisao
+comment1.params=peso
+comment1.target=void\ SetPeso(double)
+comment2.params=tamanho
+comment2.target=void\ SetTamanho(double)
+comment3.params=resolucao
+comment3.target=void\ SetResolucao(java.lang.String)
+comment4.params=peso
+comment4.target=double\ GetPeso(double)
+comment5.params=tamanho
+comment5.target=double\ GetTamanho(double)
+comment6.params=
+comment6.target=java.lang.String\ GetResolucao()
+numComments=7
